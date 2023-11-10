@@ -1,0 +1,17 @@
+body {
+    background-color: darkcyan;
+
+}
+
+h1 {
+    color: darkgray;
+    font-size: 40px ;
+    font-weight: 600;
+    text-decoration: solid;
+    text-transform: uppercase;
+    border: solid 3px darkgrey;
+    text-align: center;
+    border-radius: 5%;
+    background-color:darkolivegreen;
+
+}
